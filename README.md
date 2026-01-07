@@ -1,6 +1,6 @@
 # AutoJudge: Predicting Programming Problem Difficulty
 
-**[Demo Video Link]** | **[Live Site Link (if applicable)]**
+**[Demo Video Link: ]** | **[Live Site Link https://autojudge23322002.streamlit.app/]**
 
 ---
 
@@ -97,14 +97,15 @@ streamlit run app.py
 ## 📁 Repository Structure
 
 * `data/`: Dataset used for training.
-* `models/`: Saved `.pkl` or model files for Classification and Regression.
+* `models/`: Saved model files for Classification and Regression.
 * `notebooks/`: Data preprocessing, EDA, and model training scripts.
 * `app.py`: Streamlit web UI code.
+* `infrance,py`: code that runs internally in streamlit.
 * `requirements.txt`: List of necessary Python packages.
 
 ---
 
-**Developed by:** [Your Name]
-**Details:** [Your College/Batch/ID]
+**Developed by:** Abhishek kumar sahu,
+**Branch:** Economics,
+**enrollment no:** 23322002
 
-Would you like me to help you draft the instructions for the "Steps to Run Locally" section based on the specific libraries you used?
